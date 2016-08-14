@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\Ushakova_Natalya_Task7\DataLayer\bin\Debug\DataLayer.dll
+c:\users\user\documents\visual studio 2015\Projects\Ushakova_Natalya_Task7\DataLayer\bin\Debug\DataLayer.pdb
+c:\users\user\documents\visual studio 2015\Projects\Ushakova_Natalya_Task7\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Ushakova_Natalya_Task7\DataLayer\obj\Debug\DataLayer.dll
+c:\users\user\documents\visual studio 2015\Projects\Ushakova_Natalya_Task7\DataLayer\obj\Debug\DataLayer.pdb
